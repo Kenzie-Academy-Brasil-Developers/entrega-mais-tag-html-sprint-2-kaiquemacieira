@@ -45,12 +45,22 @@ body{
     text-align: center;
     align-self: center;
 }
-#contact{
+.contact{
     font-size: 17px;
     text-align: center;
+   
     
 }
 li details{
     text-align: center;
     font-size: 18px;
+}
+hr{
+    border: 2px dotted;
+    color: rgb(175, 138, 16);
+
+}
+.contact sumary{
+    color: rgb(58, 33, 128);
+    font-size: 20px;
 }
